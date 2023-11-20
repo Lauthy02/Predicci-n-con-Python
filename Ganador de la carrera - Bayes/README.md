@@ -2,7 +2,7 @@
 ## El objetivo de estre proyecto es poder predecir si el piloto ingresado va a quedar primero en la carrera ingresada
 ### Se le podrá pasar al algoritmo una carerrara, la posición 1 y un piloto. El algoritmo arrojará un valor de 1 si predice que va a quedar 1ro o 0 en caso contrario
 
-Para poder predecir esto utilizo el algoritmo Naive Bayes[^1] dentro de la librería scikit-learn, específicamente el objeto GaussianNB.
+Para poder predecir esto utilizo el algoritmo Naive Bayes[^1] dentro de la librería scikit-learn, específicamente el objeto `GaussianNB()`.
 
 Los datos son extraidos de 4 csv's, específicamente:
   - formula1_2019season_raceResults.csv
@@ -14,7 +14,9 @@ Estos a estos datos les saqué las columnas que no necesitaba, eliminé las fila
 
 De esta manera filtré los 4 csv's mencionados anteriormente y creé uno nuevo con todos estos datos limpios para poder entrenar al algoritmo.
 
-Una vez entrenado en otro csv le paso los datos que quiero analizar.
+Antes de entrenar al algoritmo el csv con todos los datos limpios lo pasé por la función `.dropna()` que limpia los valores nullos que podrían haber quedado.
+
+Una vez entrenado, en otro csv le paso los datos que quiero analizar.
 
 > [!WARNING]
 > Los datos a ingresar deben tener el mismo formato que se utilizó al entrenar el algoritmo.
