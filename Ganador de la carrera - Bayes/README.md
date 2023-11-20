@@ -1,6 +1,6 @@
 # Predicción con Gaussian Naive Bayes - ¿El piloto x va a quedar 1ro en la carrera x?
 ## El objetivo de estre proyecto es poder predecir si x piloto va a quedar primero en x carrera
-### Se le podrá pasar al algoritmo una carerrara *Monaco*, la posición *1* y un piloto *Fernando Alonso* y el algoritmo arrojará un valor de 1 si predice que va a quedar 1ro o 0 en caso contrario.
+### Se le podrá pasar al algoritmo una carerrara, la posición 1 y un piloto. El algoritmo arrojará un valor de 1 si predice que va a quedar 1ro o 0 en caso contrario.
 
 Para poder predecir esto utilizo el algoritmo Naive Bayes[^1] dentro de la librería scikit-learn, específicamente el objeto GaussianNB.
 
