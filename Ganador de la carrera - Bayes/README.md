@@ -28,6 +28,8 @@ Una vez entrenado, en otro csv escribo los datos que quiero analizar y se los pa
 | --- | --- | --- |
 | Monaco | 1 | Fernando Alonso |
 
+![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/877634f2-35d0-4444-9ce3-0e3a8ac19421)
+
 # Enlaces
 ## Información adicional
   - [Formula 1 dataset](https://github.com/toUpperCase78/formula1-datasets)
