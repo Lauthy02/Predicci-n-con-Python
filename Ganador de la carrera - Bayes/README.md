@@ -15,7 +15,7 @@ Todos estos csv's los junté en uno solo y lo pasé por la función `.dropna()` 
 
 | Antes | Desupés |
 | --- | --- |
-| ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/3bde0833-0dc4-4bac-868e-60c212d39407) | ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/85fc8072-faf1-4f3f-a204-da531978fcaf) |
+| ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/3bde0833-0dc4-4bac-868e-60c212d39407) | ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/85fc8072-faf1-4f3f-a204-da531978fcaf)|
 
 ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/491bccd0-3525-42b4-9520-66d4c0662af1)
 
