@@ -1,0 +1,3 @@
+pip i pandas 
+pip i numpy 
+pip i scikit-learn
