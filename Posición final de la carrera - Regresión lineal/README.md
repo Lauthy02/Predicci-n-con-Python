@@ -1,6 +1,6 @@
 # Predicción con Regresión lineal - ¿Cuál va a ser la posición final dependiendo de la posición de salida?
 ## El objetivo de este proyecto es poder predecir cuál va a ser la posición final dependiendo de la posición de salida
-### El programa va a analizar los datos de las carreras del año 20xx 
+### El programa va a analizar los datos de las carreras del año 2019 
 
 Para poder predecir esto utilizo la regresión lineal.
 
