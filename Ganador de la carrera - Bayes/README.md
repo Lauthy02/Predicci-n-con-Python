@@ -13,6 +13,10 @@ Los datos son extraidos de 4 csv's, específicamente:
 A cada uno de estos csv's les saqué las columnas que no necesitaba, eliminé las filas con valor NC[^2] en la columna *Position*, creé una columna personalizada llamada *Win*, que tiene el valor 1 cuando el valor de la columna *Position* es 1 y 0 cuando el valor es mayor a 1. Esta columna la necesito para entrenar al algoritmo. 
 Todos estos csv's los junté en uno solo y lo pasé por la función `.dropna()` que limpia los valores nulos que podrían haber quedado. Archivo resultante: [f1_data_limpia_2019_2022.csv](https://github.com/Lauthy02/Prediccion-con-Python/blob/38cce5eba96603ff1c364d9ba999471a9038b691/Ganador%20de%20la%20carrera%20-%20Bayes/csvs_f1_limpios/f1_data_limpia_2019_2022.csv)
 
+| Antes | Desupés |
+| --- | --- |
+| ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/3bde0833-0dc4-4bac-868e-60c212d39407) | 1 |
+
 ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/491bccd0-3525-42b4-9520-66d4c0662af1)
 
 Una vez entrenado el algoritmo con los valores limpios, en otro csv escribo los datos que quiero analizar y se los paso.
