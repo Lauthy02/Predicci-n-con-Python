@@ -19,5 +19,7 @@ De esta manera filtré los 4 csv's mencionados anteriormente y creé uno nuevo c
   - [Formula 1 dataset](https://github.com/toUpperCase78/formula1-datasets)
   - [scikit-learn](https://scikit-learn.org/stable/)
   - [GaussianNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB)
+  - [Naive Bayes - Wikipedia](https://es.wikipedia.org/wiki/Clasificador_bayesiano_ingenuo)
+  - [Naive Bayes usando Python](https://www.aprendemachinelearning.com/?s=bayes)
 
 [^1]: Son una clase especial de algoritmos de clasificación de Aprendizaje Automatico, o Machine Learning. Se basan en una técnica de clasificación estadística llamada “teorema de Bayes”.
