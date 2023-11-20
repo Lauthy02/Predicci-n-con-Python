@@ -5,7 +5,7 @@
 Para poder predecir esto utilizo el algoritmo Naive Bayes[^1] dentro de la librería scikit-learn, específicamente el objeto `GaussianNB()`.
 
 Los datos son extraidos de 4 csv's, específicamente:
-  - formula1_2019season_raceResults.csv
+  - [formula1_2019season_raceResults.csv](https://github.com/Lauthy02/Prediccion-con-Python/blob/d072131111a2a5135be915d4303df0eb175d3279/Ganador%20de%20la%20carrera%20-%20Bayes/csvs_f1/formula1_2019season_raceResults.csv)
   - formula1_2020season_raceResults.csv
   - formula1_2021season_raceResults.csv
   - formula1_2022season_raceResults.csv
