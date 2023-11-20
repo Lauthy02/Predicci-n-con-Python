@@ -14,6 +14,15 @@ Estos a estos datos les saqué las columnas que no necesitaba, eliminé las fila
 
 De esta manera filtré los 4 csv's mencionados anteriormente y creé uno nuevo con todos estos datos limpios para poder entrenar al algoritmo.
 
+Una vez entrenado en otro csv le paso los datos que quiero analizar.
+
+> [!WARNING]
+> Los datos a ingresar deben tener el mismo formato que se utilizó al entrenar el algoritmo.
+> El valor Position al ingresar los datos siempre debe valer 1.
+
+Track,Position,Driver
+Monaco,1,Fernando Alonso
+
 # Enlaces
 ## Información adicional
   - [Formula 1 dataset](https://github.com/toUpperCase78/formula1-datasets)
