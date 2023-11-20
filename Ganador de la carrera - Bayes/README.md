@@ -1,5 +1,5 @@
-# Predicción con Gaussian Naive Bayes - ¿El piloto x ganará la carrera?
-## El objetivo de estre proyecto es poder predecir si x piloto va a ganar x carrera.
+# Predicción con Gaussian Naive Bayes - ¿El piloto x va a quedar primero en la carrera x?
+## El objetivo de estre proyecto es poder predecir si x piloto va a quedar primero en x carrera.
 ### Se le podrá pasar al algoritmo una carerrara [Monaco], la posición [1] y un piloto [Fernando Alonso] y el algoritmo arrojará un valor de 1 si predice que va a ganar o 0 si no va a quedar primero.
 
 Para poder predecir esto utilizo el algoritmo Gaussian Naive Bayes dentro de la librería scikit-learn, específicamente el objeto GaussianNB.
