@@ -12,6 +12,9 @@ Los datos son extraidos de 4 csv's, específicamente:
 
 Estos a estos datos les saqé las columnas que no necesitaba, eliminé las filas con valor 'NC' en la columna Position y cree una columna personalizada llamada 'Win' que tiene el valor 1 cuando el valor de la position es 1 y 0 cuando el valor es mayor a 1.
 
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
 # Enlaces
 ## Información adicional
   - [Formula 1 dataset](https://github.com/toUpperCase78/formula1-datasets)
