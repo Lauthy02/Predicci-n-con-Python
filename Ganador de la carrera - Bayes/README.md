@@ -16,7 +16,7 @@ Antes de entrenar al algoritmo el csv con todos los datos limpios lo pasé por l
 
 ![image](https://github.com/Lauthy02/Prediccion-con-Python/assets/66260747/491bccd0-3525-42b4-9520-66d4c0662af1)
 
-Una vez entrenado, en otro csv le paso los datos que quiero analizar.
+Una vez entrenado, en otro csv escribo los datos que quiero analizar y se los paso al algoritmo.
 
 > [!WARNING]
 > Los datos a ingresar deben tener el mismo formato que se utilizó al entrenar el algoritmo.
