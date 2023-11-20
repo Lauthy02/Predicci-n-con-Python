@@ -19,7 +19,7 @@ Una vez entrenado en otro csv le paso los datos que quiero analizar.
 > [!WARNING]
 > Los datos a ingresar deben tener el mismo formato que se utilizó al entrenar el algoritmo.
 
-> > [!WARNING]
+> [!WARNING]
 > El valor Position al ingresar los datos siempre debe valer 1.
 
 | Track | Position | Driver |
