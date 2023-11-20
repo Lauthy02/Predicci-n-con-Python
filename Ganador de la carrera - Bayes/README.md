@@ -28,8 +28,8 @@ Una vez entrenado, en otro csv le paso los datos que quiero analizar.
 | --- | --- | --- |
 | Monaco | 1 | Fernando Alonso |
 
-# Enlaces.
-## Información adicional.
+# Enlaces
+## Información adicional
   - [Formula 1 dataset](https://github.com/toUpperCase78/formula1-datasets)
   - [scikit-learn](https://scikit-learn.org/stable/)
   - [GaussianNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB)
