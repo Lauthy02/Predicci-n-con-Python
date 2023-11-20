@@ -1,0 +1,392 @@
+Track,Position,Driver,Win
+Bahrain,1,Lewis Hamilton,1
+Bahrain,2,Max Verstappen,0
+Bahrain,3,Valtteri Bottas,0
+Bahrain,4,Lando Norris,0
+Bahrain,5,Sergio Perez,0
+Bahrain,6,Charles Leclerc,0
+Bahrain,7,Daniel Ricciardo,0
+Bahrain,8,Carlos Sainz,0
+Bahrain,9,Yuki Tsunoda,0
+Bahrain,10,Lance Stroll,0
+Bahrain,11,Kimi Raikkönen,0
+Bahrain,12,Antonio Giovinazzi,0
+Bahrain,13,Esteban Ocon,0
+Bahrain,14,George Russell,0
+Bahrain,15,Sebastian Vettel,0
+Bahrain,16,Mick Schumacher,0
+Bahrain,17,Pierre Gasly,0
+Bahrain,18,Nicholas Latifi,0
+Emilia Romagna,1,Max Verstappen,1
+Emilia Romagna,2,Lewis Hamilton,0
+Emilia Romagna,3,Lando Norris,0
+Emilia Romagna,4,Charles Leclerc,0
+Emilia Romagna,5,Carlos Sainz,0
+Emilia Romagna,6,Daniel Ricciardo,0
+Emilia Romagna,7,Pierre Gasly,0
+Emilia Romagna,8,Lance Stroll,0
+Emilia Romagna,9,Esteban Ocon,0
+Emilia Romagna,10,Fernando Alonso,0
+Emilia Romagna,11,Sergio Perez,0
+Emilia Romagna,12,Yuki Tsunoda,0
+Emilia Romagna,13,Kimi Raikkönen,0
+Emilia Romagna,14,Antonio Giovinazzi,0
+Emilia Romagna,15,Sebastian Vettel,0
+Emilia Romagna,16,Mick Schumacher,0
+Emilia Romagna,17,Nikita Mazepin,0
+Portugal,1,Lewis Hamilton,1
+Portugal,2,Max Verstappen,0
+Portugal,3,Valtteri Bottas,0
+Portugal,4,Sergio Perez,0
+Portugal,5,Lando Norris,0
+Portugal,6,Charles Leclerc,0
+Portugal,7,Esteban Ocon,0
+Portugal,8,Fernando Alonso,0
+Portugal,9,Daniel Ricciardo,0
+Portugal,10,Pierre Gasly,0
+Portugal,11,Carlos Sainz,0
+Portugal,12,Antonio Giovinazzi,0
+Portugal,13,Sebastian Vettel,0
+Portugal,14,Lance Stroll,0
+Portugal,15,Yuki Tsunoda,0
+Portugal,16,George Russell,0
+Portugal,17,Mick Schumacher,0
+Portugal,18,Nicholas Latifi,0
+Portugal,19,Nikita Mazepin,0
+Spain,1,Lewis Hamilton,1
+Spain,2,Max Verstappen,0
+Spain,3,Valtteri Bottas,0
+Spain,4,Charles Leclerc,0
+Spain,5,Sergio Perez,0
+Spain,6,Daniel Ricciardo,0
+Spain,7,Carlos Sainz,0
+Spain,8,Lando Norris,0
+Spain,9,Esteban Ocon,0
+Spain,10,Pierre Gasly,0
+Spain,11,Lance Stroll,0
+Spain,12,Kimi Raikkönen,0
+Spain,13,Sebastian Vettel,0
+Spain,14,George Russell,0
+Spain,15,Antonio Giovinazzi,0
+Spain,16,Nicholas Latifi,0
+Spain,17,Fernando Alonso,0
+Spain,18,Mick Schumacher,0
+Spain,19,Nikita Mazepin,0
+Monaco,1,Max Verstappen,1
+Monaco,2,Carlos Sainz,0
+Monaco,3,Lando Norris,0
+Monaco,4,Sergio Perez,0
+Monaco,5,Sebastian Vettel,0
+Monaco,6,Pierre Gasly,0
+Monaco,7,Lewis Hamilton,0
+Monaco,8,Lance Stroll,0
+Monaco,9,Esteban Ocon,0
+Monaco,10,Antonio Giovinazzi,0
+Monaco,11,Kimi Raikkönen,0
+Monaco,12,Daniel Ricciardo,0
+Monaco,13,Fernando Alonso,0
+Monaco,14,George Russell,0
+Monaco,15,Nicholas Latifi,0
+Monaco,16,Yuki Tsunoda,0
+Monaco,17,Nikita Mazepin,0
+Monaco,18,Mick Schumacher,0
+Azerbaijan,1,Sergio Perez,1
+Azerbaijan,2,Sebastian Vettel,0
+Azerbaijan,3,Pierre Gasly,0
+Azerbaijan,4,Charles Leclerc,0
+Azerbaijan,5,Lando Norris,0
+Azerbaijan,6,Fernando Alonso,0
+Azerbaijan,7,Yuki Tsunoda,0
+Azerbaijan,8,Carlos Sainz,0
+Azerbaijan,9,Daniel Ricciardo,0
+Azerbaijan,10,Kimi Raikkönen,0
+Azerbaijan,11,Antonio Giovinazzi,0
+Azerbaijan,12,Valtteri Bottas,0
+Azerbaijan,13,Mick Schumacher,0
+Azerbaijan,14,Nikita Mazepin,0
+Azerbaijan,15,Lewis Hamilton,0
+Azerbaijan,16,Nicholas Latifi,0
+Azerbaijan,17,George Russell,0
+Azerbaijan,18,Max Verstappen,0
+France,1,Max Verstappen,1
+France,2,Lewis Hamilton,0
+France,3,Sergio Perez,0
+France,4,Valtteri Bottas,0
+France,5,Lando Norris,0
+France,6,Daniel Ricciardo,0
+France,7,Pierre Gasly,0
+France,8,Fernando Alonso,0
+France,9,Sebastian Vettel,0
+France,10,Lance Stroll,0
+France,11,Carlos Sainz,0
+France,12,George Russell,0
+France,13,Yuki Tsunoda,0
+France,14,Esteban Ocon,0
+France,15,Antonio Giovinazzi,0
+France,16,Charles Leclerc,0
+France,17,Kimi Raikkönen,0
+France,18,Nicholas Latifi,0
+France,19,Mick Schumacher,0
+France,20,Nikita Mazepin,0
+Styria,1,Max Verstappen,1
+Styria,2,Lewis Hamilton,0
+Styria,3,Valtteri Bottas,0
+Styria,4,Sergio Perez,0
+Styria,5,Lando Norris,0
+Styria,6,Carlos Sainz,0
+Styria,7,Charles Leclerc,0
+Styria,8,Lance Stroll,0
+Styria,9,Fernando Alonso,0
+Styria,10,Yuki Tsunoda,0
+Styria,11,Kimi Raikkönen,0
+Styria,12,Sebastian Vettel,0
+Styria,13,Daniel Ricciardo,0
+Styria,14,Esteban Ocon,0
+Styria,15,Antonio Giovinazzi,0
+Styria,16,Mick Schumacher,0
+Styria,17,Nicholas Latifi,0
+Styria,18,Nikita Mazepin,0
+Austria,1,Max Verstappen,1
+Austria,2,Valtteri Bottas,0
+Austria,3,Lando Norris,0
+Austria,4,Lewis Hamilton,0
+Austria,5,Carlos Sainz,0
+Austria,6,Sergio Perez,0
+Austria,7,Daniel Ricciardo,0
+Austria,8,Charles Leclerc,0
+Austria,9,Pierre Gasly,0
+Austria,10,Fernando Alonso,0
+Austria,11,George Russell,0
+Austria,12,Yuki Tsunoda,0
+Austria,13,Lance Stroll,0
+Austria,14,Antonio Giovinazzi,0
+Austria,15,Kimi Raikkönen,0
+Austria,16,Nicholas Latifi,0
+Austria,17,Sebastian Vettel,0
+Austria,18,Mick Schumacher,0
+Austria,19,Nikita Mazepin,0
+Great Britain,1,Lewis Hamilton,1
+Great Britain,2,Charles Leclerc,0
+Great Britain,3,Valtteri Bottas,0
+Great Britain,4,Lando Norris,0
+Great Britain,5,Daniel Ricciardo,0
+Great Britain,6,Carlos Sainz,0
+Great Britain,7,Fernando Alonso,0
+Great Britain,8,Lance Stroll,0
+Great Britain,9,Esteban Ocon,0
+Great Britain,10,Yuki Tsunoda,0
+Great Britain,11,Pierre Gasly,0
+Great Britain,12,George Russell,0
+Great Britain,13,Antonio Giovinazzi,0
+Great Britain,14,Nicholas Latifi,0
+Great Britain,15,Kimi Raikkönen,0
+Great Britain,16,Sergio Perez,0
+Great Britain,17,Nikita Mazepin,0
+Great Britain,18,Mick Schumacher,0
+Hungary,1,Esteban Ocon,1
+Hungary,,Sebastian Vettel, 
+Hungary,2,Lewis Hamilton,0
+Hungary,3,Carlos Sainz,0
+Hungary,4,Fernando Alonso,0
+Hungary,5,Pierre Gasly,0
+Hungary,6,Yuki Tsunoda,0
+Hungary,7,Nicholas Latifi,0
+Hungary,8,George Russell,0
+Hungary,9,Max Verstappen,0
+Hungary,10,Kimi Raikkönen,0
+Hungary,11,Daniel Ricciardo,0
+Hungary,12,Mick Schumacher,0
+Hungary,13,Antonio Giovinazzi,0
+Belgium,1,Max Verstappen,1
+Belgium,2,George Russell,0
+Belgium,3,Lewis Hamilton,0
+Belgium,4,Daniel Ricciardo,0
+Belgium,5,Sebastian Vettel,0
+Belgium,6,Pierre Gasly,0
+Belgium,7,Esteban Ocon,0
+Belgium,8,Charles Leclerc,0
+Belgium,9,Nicholas Latifi,0
+Belgium,10,Carlos Sainz,0
+Belgium,11,Fernando Alonso,0
+Belgium,12,Valtteri Bottas,0
+Belgium,13,Antonio Giovinazzi,0
+Belgium,14,Lando Norris,0
+Belgium,15,Yuki Tsunoda,0
+Belgium,16,Mick Schumacher,0
+Belgium,17,Nikita Mazepin,0
+Belgium,18,Kimi Raikkönen,0
+Belgium,19,Sergio Perez,0
+Belgium,20,Lance Stroll,0
+Netherlands,1,Max Verstappen,1
+Netherlands,2,Lewis Hamilton,0
+Netherlands,3,Valtteri Bottas,0
+Netherlands,4,Pierre Gasly,0
+Netherlands,5,Charles Leclerc,0
+Netherlands,6,Fernando Alonso,0
+Netherlands,7,Carlos Sainz,0
+Netherlands,8,Sergio Perez,0
+Netherlands,9,Esteban Ocon,0
+Netherlands,10,Lando Norris,0
+Netherlands,11,Daniel Ricciardo,0
+Netherlands,12,Lance Stroll,0
+Netherlands,13,Sebastian Vettel,0
+Netherlands,14,Antonio Giovinazzi,0
+Netherlands,15,Robert Kubica,0
+Netherlands,16,Nicholas Latifi,0
+Netherlands,17,George Russell,0
+Netherlands,18,Mick Schumacher,0
+Italy,1,Daniel Ricciardo,1
+Italy,2,Lando Norris,0
+Italy,3,Valtteri Bottas,0
+Italy,4,Charles Leclerc,0
+Italy,5,Sergio Perez,0
+Italy,6,Carlos Sainz,0
+Italy,7,Lance Stroll,0
+Italy,8,Fernando Alonso,0
+Italy,9,George Russell,0
+Italy,10,Esteban Ocon,0
+Italy,11,Nicholas Latifi,0
+Italy,12,Sebastian Vettel,0
+Italy,13,Antonio Giovinazzi,0
+Italy,14,Robert Kubica,0
+Italy,15,Mick Schumacher,0
+Russia,1,Lewis Hamilton,1
+Russia,2,Max Verstappen,0
+Russia,3,Carlos Sainz,0
+Russia,4,Daniel Ricciardo,0
+Russia,5,Valtteri Bottas,0
+Russia,6,Fernando Alonso,0
+Russia,7,Lando Norris,0
+Russia,8,Kimi Raikkönen,0
+Russia,9,Sergio Perez,0
+Russia,10,George Russell,0
+Russia,11,Lance Stroll,0
+Russia,12,Sebastian Vettel,0
+Russia,13,Pierre Gasly,0
+Russia,14,Esteban Ocon,0
+Russia,15,Charles Leclerc,0
+Russia,16,Antonio Giovinazzi,0
+Russia,17,Yuki Tsunoda,0
+Russia,18,Nikita Mazepin,0
+Russia,19,Nicholas Latifi,0
+Turkey,1,Valtteri Bottas,1
+Turkey,2,Max Verstappen,0
+Turkey,3,Sergio Perez,0
+Turkey,4,Charles Leclerc,0
+Turkey,5,Lewis Hamilton,0
+Turkey,6,Pierre Gasly,0
+Turkey,7,Lando Norris,0
+Turkey,8,Carlos Sainz,0
+Turkey,9,Lance Stroll,0
+Turkey,10,Esteban Ocon,0
+Turkey,11,Antonio Giovinazzi,0
+Turkey,12,Kimi Raikkönen,0
+Turkey,13,Daniel Ricciardo,0
+Turkey,14,Yuki Tsunoda,0
+Turkey,15,George Russell,0
+Turkey,16,Fernando Alonso,0
+Turkey,17,Nicholas Latifi,0
+Turkey,18,Sebastian Vettel,0
+Turkey,19,Mick Schumacher,0
+Turkey,20,Nikita Mazepin,0
+United States,1,Max Verstappen,1
+United States,2,Lewis Hamilton,0
+United States,3,Sergio Perez,0
+United States,4,Charles Leclerc,0
+United States,5,Daniel Ricciardo,0
+United States,6,Valtteri Bottas,0
+United States,7,Carlos Sainz,0
+United States,8,Lando Norris,0
+United States,9,Yuki Tsunoda,0
+United States,10,Sebastian Vettel,0
+United States,11,Antonio Giovinazzi,0
+United States,12,Lance Stroll,0
+United States,13,Kimi Raikkönen,0
+United States,14,George Russell,0
+United States,15,Nicholas Latifi,0
+United States,16,Mick Schumacher,0
+United States,17,Nikita Mazepin,0
+Mexico,1,Max Verstappen,1
+Mexico,2,Lewis Hamilton,0
+Mexico,3,Sergio Perez,0
+Mexico,4,Pierre Gasly,0
+Mexico,5,Charles Leclerc,0
+Mexico,6,Carlos Sainz,0
+Mexico,7,Sebastian Vettel,0
+Mexico,8,Kimi Raikkönen,0
+Mexico,9,Fernando Alonso,0
+Mexico,10,Lando Norris,0
+Mexico,11,Antonio Giovinazzi,0
+Mexico,12,Daniel Ricciardo,0
+Mexico,13,Esteban Ocon,0
+Mexico,14,Lance Stroll,0
+Mexico,15,Valtteri Bottas,0
+Mexico,16,George Russell,0
+Mexico,17,Nicholas Latifi,0
+Mexico,18,Nikita Mazepin,0
+Brazil,1,Lewis Hamilton,1
+Brazil,2,Max Verstappen,0
+Brazil,3,Valtteri Bottas,0
+Brazil,4,Sergio Perez,0
+Brazil,5,Charles Leclerc,0
+Brazil,6,Carlos Sainz,0
+Brazil,7,Pierre Gasly,0
+Brazil,8,Esteban Ocon,0
+Brazil,9,Fernando Alonso,0
+Brazil,10,Lando Norris,0
+Brazil,11,Sebastian Vettel,0
+Brazil,12,Kimi Raikkönen,0
+Brazil,13,George Russell,0
+Brazil,14,Antonio Giovinazzi,0
+Brazil,15,Yuki Tsunoda,0
+Brazil,16,Nicholas Latifi,0
+Brazil,17,Nikita Mazepin,0
+Brazil,18,Mick Schumacher,0
+Qatar,1,Lewis Hamilton,1
+Qatar,2,Max Verstappen,0
+Qatar,3,Fernando Alonso,0
+Qatar,4,Sergio Perez,0
+Qatar,5,Esteban Ocon,0
+Qatar,6,Lance Stroll,0
+Qatar,7,Carlos Sainz,0
+Qatar,8,Charles Leclerc,0
+Qatar,9,Lando Norris,0
+Qatar,10,Sebastian Vettel,0
+Qatar,11,Pierre Gasly,0
+Qatar,12,Daniel Ricciardo,0
+Qatar,13,Yuki Tsunoda,0
+Qatar,14,Kimi Raikkönen,0
+Qatar,15,Antonio Giovinazzi,0
+Qatar,16,Mick Schumacher,0
+Qatar,17,George Russell,0
+Qatar,18,Nikita Mazepin,0
+Saudi Arabia,1,Lewis Hamilton,1
+Saudi Arabia,2,Max Verstappen,0
+Saudi Arabia,3,Valtteri Bottas,0
+Saudi Arabia,4,Esteban Ocon,0
+Saudi Arabia,5,Daniel Ricciardo,0
+Saudi Arabia,6,Pierre Gasly,0
+Saudi Arabia,7,Charles Leclerc,0
+Saudi Arabia,8,Carlos Sainz,0
+Saudi Arabia,9,Antonio Giovinazzi,0
+Saudi Arabia,10,Lando Norris,0
+Saudi Arabia,11,Lance Stroll,0
+Saudi Arabia,12,Nicholas Latifi,0
+Saudi Arabia,13,Fernando Alonso,0
+Saudi Arabia,14,Yuki Tsunoda,0
+Saudi Arabia,15,Kimi Raikkönen,0
+Abu Dhabi,1,Max Verstappen,1
+Abu Dhabi,2,Lewis Hamilton,0
+Abu Dhabi,3,Carlos Sainz,0
+Abu Dhabi,4,Yuki Tsunoda,0
+Abu Dhabi,5,Pierre Gasly,0
+Abu Dhabi,6,Valtteri Bottas,0
+Abu Dhabi,7,Lando Norris,0
+Abu Dhabi,8,Fernando Alonso,0
+Abu Dhabi,9,Esteban Ocon,0
+Abu Dhabi,10,Charles Leclerc,0
+Abu Dhabi,11,Sebastian Vettel,0
+Abu Dhabi,12,Daniel Ricciardo,0
+Abu Dhabi,13,Lance Stroll,0
+Abu Dhabi,14,Mick Schumacher,0
+Abu Dhabi,15,Sergio Perez,0

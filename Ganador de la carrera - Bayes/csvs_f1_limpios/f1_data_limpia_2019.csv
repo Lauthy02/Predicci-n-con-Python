@@ -1,0 +1,375 @@
+Track,Position,Driver,Win
+Australia,1,Valtteri Bottas,1
+Australia,2,Lewis Hamilton,0
+Australia,3,Max Verstappen,0
+Australia,4,Sebastian Vettel,0
+Australia,5,Charles Leclerc,0
+Australia,6,Kevin Magnussen,0
+Australia,7,Nico Hulkenberg,0
+Australia,8,Kimi Raikkönen,0
+Australia,9,Lance Stroll,0
+Australia,10,Daniil Kvyat,0
+Australia,11,Pierre Gasly,0
+Australia,12,Lando Norris,0
+Australia,13,Sergio Perez,0
+Australia,14,Alexander Albon,0
+Australia,15,Antonio Giovinazzi,0
+Australia,16,George Russell,0
+Australia,17,Robert Kubica,0
+Bahrain,1,Lewis Hamilton,1
+Bahrain,2,Valtteri Bottas,0
+Bahrain,3,Charles Leclerc,0
+Bahrain,4,Max Verstappen,0
+Bahrain,5,Sebastian Vettel,0
+Bahrain,6,Lando Norris,0
+Bahrain,7,Kimi Raikkönen,0
+Bahrain,8,Pierre Gasly,0
+Bahrain,9,Alexander Albon,0
+Bahrain,10,Sergio Perez,0
+Bahrain,11,Antonio Giovinazzi,0
+Bahrain,12,Daniil Kvyat,0
+Bahrain,13,Kevin Magnussen,0
+Bahrain,14,Lance Stroll,0
+Bahrain,15,George Russell,0
+Bahrain,16,Robert Kubica,0
+Bahrain,17,Nico Hulkenberg,0
+Bahrain,18,Daniel Ricciardo,0
+Bahrain,19,Carlos Sainz,0
+China,1,Lewis Hamilton,1
+China,2,Valtteri Bottas,0
+China,3,Sebastian Vettel,0
+China,4,Max Verstappen,0
+China,5,Charles Leclerc,0
+China,6,Pierre Gasly,0
+China,7,Daniel Ricciardo,0
+China,8,Sergio Perez,0
+China,9,Kimi Raikkönen,0
+China,10,Alexander Albon,0
+China,11,Romain Grosjean,0
+China,12,Lance Stroll,0
+China,13,Kevin Magnussen,0
+China,14,Carlos Sainz,0
+China,15,Antonio Giovinazzi,0
+China,16,George Russell,0
+China,17,Robert Kubica,0
+China,18,Lando Norris,0
+Azerbaijan,1,Valtteri Bottas,1
+Azerbaijan,2,Lewis Hamilton,0
+Azerbaijan,3,Sebastian Vettel,0
+Azerbaijan,4,Max Verstappen,0
+Azerbaijan,5,Charles Leclerc,0
+Azerbaijan,6,Sergio Perez,0
+Azerbaijan,7,Carlos Sainz,0
+Azerbaijan,8,Lando Norris,0
+Azerbaijan,9,Lance Stroll,0
+Azerbaijan,10,Kimi Raikkönen,0
+Azerbaijan,11,Alexander Albon,0
+Azerbaijan,12,Antonio Giovinazzi,0
+Azerbaijan,13,Kevin Magnussen,0
+Azerbaijan,14,Nico Hulkenberg,0
+Azerbaijan,15,George Russell,0
+Azerbaijan,16,Robert Kubica,0
+Spain,1,Lewis Hamilton,1
+Spain,2,Valtteri Bottas,0
+Spain,3,Max Verstappen,0
+Spain,4,Sebastian Vettel,0
+Spain,5,Charles Leclerc,0
+Spain,6,Pierre Gasly,0
+Spain,7,Kevin Magnussen,0
+Spain,8,Carlos Sainz,0
+Spain,9,Daniil Kvyat,0
+Spain,10,Romain Grosjean,0
+Spain,11,Alexander Albon,0
+Spain,12,Daniel Ricciardo,0
+Spain,13,Nico Hulkenberg,0
+Spain,14,Kimi Raikkönen,0
+Spain,15,Sergio Perez,0
+Spain,16,Antonio Giovinazzi,0
+Spain,17,George Russell,0
+Spain,18,Robert Kubica,0
+Monaco,1,Lewis Hamilton,1
+Monaco,2,Sebastian Vettel,0
+Monaco,3,Valtteri Bottas,0
+Monaco,4,Max Verstappen,0
+Monaco,5,Pierre Gasly,0
+Monaco,6,Carlos Sainz,0
+Monaco,7,Daniil Kvyat,0
+Monaco,8,Alexander Albon,0
+Monaco,9,Daniel Ricciardo,0
+Monaco,10,Romain Grosjean,0
+Monaco,11,Lando Norris,0
+Monaco,12,Sergio Perez,0
+Monaco,13,Nico Hulkenberg,0
+Monaco,14,Kevin Magnussen,0
+Monaco,15,George Russell,0
+Monaco,16,Lance Stroll,0
+Monaco,17,Kimi Raikkönen,0
+Monaco,18,Robert Kubica,0
+Monaco,19,Antonio Giovinazzi,0
+Canada,1,Lewis Hamilton,1
+Canada,2,Sebastian Vettel,0
+Canada,3,Charles Leclerc,0
+Canada,4,Valtteri Bottas,0
+Canada,5,Max Verstappen,0
+Canada,6,Daniel Ricciardo,0
+Canada,7,Nico Hulkenberg,0
+Canada,8,Pierre Gasly,0
+Canada,9,Lance Stroll,0
+Canada,10,Daniil Kvyat,0
+Canada,11,Carlos Sainz,0
+Canada,12,Sergio Perez,0
+Canada,13,Antonio Giovinazzi,0
+Canada,14,Romain Grosjean,0
+Canada,15,Kimi Raikkönen,0
+Canada,16,George Russell,0
+Canada,17,Kevin Magnussen,0
+Canada,18,Robert Kubica,0
+France,1,Lewis Hamilton,1
+France,2,Valtteri Bottas,0
+France,3,Charles Leclerc,0
+France,4,Max Verstappen,0
+France,5,Sebastian Vettel,0
+France,6,Carlos Sainz,0
+France,7,Kimi Raikkönen,0
+France,8,Nico Hulkenberg,0
+France,9,Lando Norris,0
+France,10,Pierre Gasly,0
+France,11,Daniel Ricciardo,0
+France,12,Sergio Perez,0
+France,13,Lance Stroll,0
+France,14,Daniil Kvyat,0
+France,15,Alexander Albon,0
+France,16,Antonio Giovinazzi,0
+France,17,Kevin Magnussen,0
+France,18,Robert Kubica,0
+France,19,George Russell,0
+Austria,1,Max Verstappen,1
+Austria,2,Charles Leclerc,0
+Austria,3,Valtteri Bottas,0
+Austria,4,Sebastian Vettel,0
+Austria,5,Lewis Hamilton,0
+Austria,6,Lando Norris,0
+Austria,7,Pierre Gasly,0
+Austria,8,Carlos Sainz,0
+Austria,9,Kimi Raikkönen,0
+Austria,10,Antonio Giovinazzi,0
+Austria,11,Sergio Perez,0
+Austria,12,Daniel Ricciardo,0
+Austria,13,Nico Hulkenberg,0
+Austria,14,Lance Stroll,0
+Austria,15,Alexander Albon,0
+Austria,16,Romain Grosjean,0
+Austria,17,Daniil Kvyat,0
+Austria,18,George Russell,0
+Austria,19,Kevin Magnussen,0
+Austria,20,Robert Kubica,0
+Great Britain,1,Lewis Hamilton,1
+Great Britain,2,Valtteri Bottas,0
+Great Britain,3,Charles Leclerc,0
+Great Britain,4,Pierre Gasly,0
+Great Britain,5,Max Verstappen,0
+Great Britain,6,Carlos Sainz,0
+Great Britain,7,Daniel Ricciardo,0
+Great Britain,8,Kimi Raikkönen,0
+Great Britain,9,Daniil Kvyat,0
+Great Britain,10,Nico Hulkenberg,0
+Great Britain,11,Lando Norris,0
+Great Britain,12,Alexander Albon,0
+Great Britain,13,Lance Stroll,0
+Great Britain,14,George Russell,0
+Great Britain,15,Robert Kubica,0
+Great Britain,16,Sebastian Vettel,0
+Great Britain,17,Sergio Perez,0
+Germany,1,Max Verstappen,1
+Germany,2,Sebastian Vettel,0
+Germany,3,Daniil Kvyat,0
+Germany,4,Lance Stroll,0
+Germany,5,Carlos Sainz,0
+Germany,6,Alexander Albon,0
+Germany,7,Romain Grosjean,0
+Germany,8,Kevin Magnussen,0
+Germany,9,Lewis Hamilton,0
+Germany,10,Robert Kubica,0
+Germany,11,George Russell,0
+Germany,12,Kimi Raikkönen,0
+Germany,13,Antonio Giovinazzi,0
+Germany,14,Pierre Gasly,0
+Hungary,1,Lewis Hamilton,1
+Hungary,2,Max Verstappen,0
+Hungary,3,Sebastian Vettel,0
+Hungary,4,Charles Leclerc,0
+Hungary,5,Carlos Sainz,0
+Hungary,6,Pierre Gasly,0
+Hungary,7,Kimi Raikkönen,0
+Hungary,8,Valtteri Bottas,0
+Hungary,9,Lando Norris,0
+Hungary,10,Alexander Albon,0
+Hungary,11,Sergio Perez,0
+Hungary,12,Nico Hulkenberg,0
+Hungary,13,Kevin Magnussen,0
+Hungary,14,Daniel Ricciardo,0
+Hungary,15,Daniil Kvyat,0
+Hungary,16,George Russell,0
+Hungary,17,Lance Stroll,0
+Hungary,18,Antonio Giovinazzi,0
+Hungary,19,Robert Kubica,0
+Belgium,1,Charles Leclerc,1
+Belgium,2,Lewis Hamilton,0
+Belgium,3,Valtteri Bottas,0
+Belgium,4,Sebastian Vettel,0
+Belgium,5,Alexander Albon,0
+Belgium,6,Sergio Perez,0
+Belgium,7,Daniil Kvyat,0
+Belgium,8,Nico Hulkenberg,0
+Belgium,9,Pierre Gasly,0
+Belgium,10,Lance Stroll,0
+Belgium,11,Lando Norris,0
+Belgium,12,Kevin Magnussen,0
+Belgium,13,Romain Grosjean,0
+Belgium,14,Daniel Ricciardo,0
+Belgium,15,George Russell,0
+Belgium,16,Kimi Raikkönen,0
+Belgium,17,Robert Kubica,0
+Belgium,18,Antonio Giovinazzi,0
+Italy,1,Charles Leclerc,1
+Italy,2,Valtteri Bottas,0
+Italy,3,Lewis Hamilton,0
+Italy,4,Daniel Ricciardo,0
+Italy,5,Nico Hulkenberg,0
+Italy,6,Alexander Albon,0
+Italy,7,Sergio Perez,0
+Italy,8,Max Verstappen,0
+Italy,9,Antonio Giovinazzi,0
+Italy,10,Lando Norris,0
+Italy,11,Pierre Gasly,0
+Italy,12,Lance Stroll,0
+Italy,13,Sebastian Vettel,0
+Italy,14,George Russell,0
+Italy,15,Kimi Raikkönen,0
+Italy,16,Romain Grosjean,0
+Italy,17,Robert Kubica,0
+Singapore,1,Sebastian Vettel,1
+Singapore,2,Charles Leclerc,0
+Singapore,3,Max Verstappen,0
+Singapore,4,Lewis Hamilton,0
+Singapore,5,Valtteri Bottas,0
+Singapore,6,Alexander Albon,0
+Singapore,7,Lando Norris,0
+Singapore,8,Pierre Gasly,0
+Singapore,9,Nico Hulkenberg,0
+Singapore,10,Antonio Giovinazzi,0
+Singapore,11,Romain Grosjean,0
+Singapore,12,Carlos Sainz,0
+Singapore,13,Lance Stroll,0
+Singapore,14,Daniel Ricciardo,0
+Singapore,15,Daniil Kvyat,0
+Singapore,16,Robert Kubica,0
+Singapore,17,Kevin Magnussen,0
+Russia,1,Lewis Hamilton,1
+Russia,2,Valtteri Bottas,0
+Russia,3,Charles Leclerc,0
+Russia,4,Max Verstappen,0
+Russia,5,Alexander Albon,0
+Russia,6,Carlos Sainz,0
+Russia,7,Sergio Perez,0
+Russia,8,Lando Norris,0
+Russia,9,Kevin Magnussen,0
+Russia,10,Nico Hulkenberg,0
+Russia,11,Lance Stroll,0
+Russia,12,Daniil Kvyat,0
+Russia,13,Kimi Raikkönen,0
+Russia,14,Pierre Gasly,0
+Russia,15,Antonio Giovinazzi,0
+Japan,1,Valtteri Bottas,1
+Japan,2,Sebastian Vettel,0
+Japan,3,Lewis Hamilton,0
+Japan,4,Alexander Albon,0
+Japan,5,Carlos Sainz,0
+Japan,,Daniel Ricciardo, 
+Japan,6,Charles Leclerc,0
+Japan,7,Pierre Gasly,0
+Japan,8,Sergio Perez,0
+Japan,,Nico Hulkenberg, 
+Japan,9,Lance Stroll,0
+Japan,10,Daniil Kvyat,0
+Japan,11,Lando Norris,0
+Japan,12,Kimi Raikkönen,0
+Japan,13,Romain Grosjean,0
+Japan,14,Antonio Giovinazzi,0
+Japan,15,Kevin Magnussen,0
+Japan,16,George Russell,0
+Japan,17,Robert Kubica,0
+Mexico,1,Lewis Hamilton,1
+Mexico,2,Sebastian Vettel,0
+Mexico,3,Valtteri Bottas,0
+Mexico,4,Charles Leclerc,0
+Mexico,5,Alexander Albon,0
+Mexico,6,Max Verstappen,0
+Mexico,7,Sergio Perez,0
+Mexico,8,Daniel Ricciardo,0
+Mexico,9,Pierre Gasly,0
+Mexico,10,Nico Hulkenberg,0
+Mexico,11,Daniil Kvyat,0
+Mexico,12,Lance Stroll,0
+Mexico,13,Carlos Sainz,0
+Mexico,14,Antonio Giovinazzi,0
+Mexico,15,Kevin Magnussen,0
+Mexico,16,George Russell,0
+Mexico,17,Romain Grosjean,0
+Mexico,18,Robert Kubica,0
+United States,1,Valtteri Bottas,1
+United States,2,Lewis Hamilton,0
+United States,3,Max Verstappen,0
+United States,4,Charles Leclerc,0
+United States,5,Alexander Albon,0
+United States,6,Daniel Ricciardo,0
+United States,7,Lando Norris,0
+United States,8,Carlos Sainz,0
+United States,9,Nico Hulkenberg,0
+United States,10,Sergio Perez,0
+United States,11,Kimi Raikkönen,0
+United States,12,Daniil Kvyat,0
+United States,13,Lance Stroll,0
+United States,14,Antonio Giovinazzi,0
+United States,15,Romain Grosjean,0
+United States,16,Pierre Gasly,0
+United States,17,George Russell,0
+United States,18,Kevin Magnussen,0
+Brazil,1,Max Verstappen,1
+Brazil,2,Pierre Gasly,0
+Brazil,3,Carlos Sainz,0
+Brazil,4,Kimi Raikkönen,0
+Brazil,5,Antonio Giovinazzi,0
+Brazil,6,Daniel Ricciardo,0
+Brazil,7,Lewis Hamilton,0
+Brazil,8,Lando Norris,0
+Brazil,9,Sergio Perez,0
+Brazil,10,Daniil Kvyat,0
+Brazil,11,Kevin Magnussen,0
+Brazil,12,George Russell,0
+Brazil,13,Romain Grosjean,0
+Brazil,14,Alexander Albon,0
+Brazil,15,Nico Hulkenberg,0
+Brazil,16,Robert Kubica,0
+Brazil,17,Sebastian Vettel,0
+Brazil,18,Charles Leclerc,0
+Brazil,19,Lance Stroll,0
+Abu Dhabi,1,Lewis Hamilton,1
+Abu Dhabi,2,Max Verstappen,0
+Abu Dhabi,3,Charles Leclerc,0
+Abu Dhabi,4,Valtteri Bottas,0
+Abu Dhabi,5,Sebastian Vettel,0
+Abu Dhabi,6,Alexander Albon,0
+Abu Dhabi,7,Sergio Perez,0
+Abu Dhabi,8,Lando Norris,0
+Abu Dhabi,9,Daniil Kvyat,0
+Abu Dhabi,10,Carlos Sainz,0
+Abu Dhabi,11,Daniel Ricciardo,0
+Abu Dhabi,12,Nico Hulkenberg,0
+Abu Dhabi,13,Kimi Raikkönen,0
+Abu Dhabi,14,Kevin Magnussen,0
+Abu Dhabi,15,Romain Grosjean,0
+Abu Dhabi,16,Antonio Giovinazzi,0
+Abu Dhabi,17,George Russell,0
+Abu Dhabi,18,Pierre Gasly,0
+Abu Dhabi,19,Robert Kubica,0

@@ -1,0 +1,288 @@
+Track,Position,Driver,Win
+Austria,1,Valtteri Bottas,1
+Austria,2,Charles Leclerc,0
+Austria,3,Lando Norris,0
+Austria,4,Lewis Hamilton,0
+Austria,5,Carlos Sainz,0
+Austria,6,Sergio Perez,0
+Austria,7,Pierre Gasly,0
+Austria,8,Esteban Ocon,0
+Austria,9,Antonio Giovinazzi,0
+Austria,10,Sebastian Vettel,0
+Austria,11,Nicholas Latifi,0
+Austria,12,Daniil Kvyat,0
+Austria,13,Alexander Albon,0
+Styria,1,Lewis Hamilton,1
+Styria,2,Valtteri Bottas,0
+Styria,3,Max Verstappen,0
+Styria,4,Alexander Albon,0
+Styria,5,Lando Norris,0
+Styria,6,Sergio Perez,0
+Styria,7,Lance Stroll,0
+Styria,8,Daniel Ricciardo,0
+Styria,9,Carlos Sainz,0
+Styria,10,Daniil Kvyat,0
+Styria,11,Kimi Raikkönen,0
+Styria,12,Kevin Magnussen,0
+Styria,13,Romain Grosjean,0
+Styria,14,Antonio Giovinazzi,0
+Styria,15,Pierre Gasly,0
+Styria,16,George Russell,0
+Styria,17,Nicholas Latifi,0
+Hungary,1,Lewis Hamilton,1
+Hungary,2,Max Verstappen,0
+Hungary,3,Valtteri Bottas,0
+Hungary,4,Lance Stroll,0
+Hungary,5,Alexander Albon,0
+Hungary,6,Sebastian Vettel,0
+Hungary,7,Sergio Perez,0
+Hungary,8,Daniel Ricciardo,0
+Hungary,9,Carlos Sainz,0
+Hungary,10,Kevin Magnussen,0
+Hungary,11,Charles Leclerc,0
+Hungary,12,Daniil Kvyat,0
+Hungary,13,Lando Norris,0
+Hungary,14,Esteban Ocon,0
+Hungary,15,Kimi Raikkönen,0
+Hungary,16,Romain Grosjean,0
+Hungary,17,Antonio Giovinazzi,0
+Hungary,18,George Russell,0
+Hungary,19,Nicholas Latifi,0
+Great Britain,1,Lewis Hamilton,1
+Great Britain,2,Max Verstappen,0
+Great Britain,3,Charles Leclerc,0
+Great Britain,4,Daniel Ricciardo,0
+Great Britain,5,Lando Norris,0
+Great Britain,6,Esteban Ocon,0
+Great Britain,7,Pierre Gasly,0
+Great Britain,8,Alexander Albon,0
+Great Britain,9,Lance Stroll,0
+Great Britain,10,Sebastian Vettel,0
+Great Britain,11,Valtteri Bottas,0
+Great Britain,12,George Russell,0
+Great Britain,13,Carlos Sainz,0
+Great Britain,14,Antonio Giovinazzi,0
+Great Britain,15,Nicholas Latifi,0
+Great Britain,16,Romain Grosjean,0
+Great Britain,17,Kimi Raikkönen,0
+70th Anniversary,1,Max Verstappen,1
+70th Anniversary,2,Lewis Hamilton,0
+70th Anniversary,3,Valtteri Bottas,0
+70th Anniversary,4,Charles Leclerc,0
+70th Anniversary,5,Alexander Albon,0
+70th Anniversary,6,Lance Stroll,0
+70th Anniversary,7,Nico Hulkenberg,0
+70th Anniversary,8,Esteban Ocon,0
+70th Anniversary,9,Lando Norris,0
+70th Anniversary,10,Daniil Kvyat,0
+70th Anniversary,11,Pierre Gasly,0
+70th Anniversary,12,Sebastian Vettel,0
+70th Anniversary,13,Carlos Sainz,0
+70th Anniversary,14,Daniel Ricciardo,0
+70th Anniversary,15,Kimi Raikkönen,0
+70th Anniversary,16,Romain Grosjean,0
+70th Anniversary,17,Antonio Giovinazzi,0
+70th Anniversary,18,George Russell,0
+70th Anniversary,19,Nicholas Latifi,0
+Spain,1,Lewis Hamilton,1
+Spain,2,Max Verstappen,0
+Spain,3,Valtteri Bottas,0
+Spain,4,Lance Stroll,0
+Spain,5,Sergio Perez,0
+Spain,6,Carlos Sainz,0
+Spain,7,Sebastian Vettel,0
+Spain,8,Alexander Albon,0
+Spain,9,Pierre Gasly,0
+Spain,10,Lando Norris,0
+Spain,11,Daniel Ricciardo,0
+Spain,12,Daniil Kvyat,0
+Spain,13,Esteban Ocon,0
+Spain,14,Kimi Raikkönen,0
+Spain,15,Kevin Magnussen,0
+Spain,16,Antonio Giovinazzi,0
+Spain,17,George Russell,0
+Spain,18,Nicholas Latifi,0
+Spain,19,Romain Grosjean,0
+Belgium,1,Lewis Hamilton,1
+Belgium,2,Valtteri Bottas,0
+Belgium,3,Max Verstappen,0
+Belgium,4,Daniel Ricciardo,0
+Belgium,5,Esteban Ocon,0
+Belgium,6,Alexander Albon,0
+Belgium,7,Lando Norris,0
+Belgium,8,Pierre Gasly,0
+Belgium,9,Lance Stroll,0
+Belgium,10,Sergio Perez,0
+Belgium,11,Daniil Kvyat,0
+Belgium,12,Kimi Raikkönen,0
+Belgium,13,Sebastian Vettel,0
+Belgium,14,Charles Leclerc,0
+Belgium,15,Romain Grosjean,0
+Belgium,16,Nicholas Latifi,0
+Belgium,17,Kevin Magnussen,0
+Italy,1,Pierre Gasly,1
+Italy,2,Carlos Sainz,0
+Italy,3,Lance Stroll,0
+Italy,4,Lando Norris,0
+Italy,5,Valtteri Bottas,0
+Italy,6,Daniel Ricciardo,0
+Italy,7,Lewis Hamilton,0
+Italy,8,Esteban Ocon,0
+Italy,9,Daniil Kvyat,0
+Italy,10,Sergio Perez,0
+Italy,11,Nicholas Latifi,0
+Italy,12,Romain Grosjean,0
+Italy,13,Kimi Raikkönen,0
+Italy,14,George Russell,0
+Italy,15,Alexander Albon,0
+Italy,16,Antonio Giovinazzi,0
+Tuscany,1,Lewis Hamilton,1
+Tuscany,2,Valtteri Bottas,0
+Tuscany,3,Alexander Albon,0
+Tuscany,4,Daniel Ricciardo,0
+Tuscany,5,Sergio Perez,0
+Tuscany,6,Lando Norris,0
+Tuscany,7,Daniil Kvyat,0
+Tuscany,8,Charles Leclerc,0
+Tuscany,9,Kimi Raikkönen,0
+Tuscany,10,Sebastian Vettel,0
+Tuscany,11,George Russell,0
+Tuscany,12,Romain Grosjean,0
+Russia,1,Valtteri Bottas,1
+Russia,2,Max Verstappen,0
+Russia,3,Lewis Hamilton,0
+Russia,4,Sergio Perez,0
+Russia,5,Daniel Ricciardo,0
+Russia,6,Charles Leclerc,0
+Russia,7,Esteban Ocon,0
+Russia,8,Daniil Kvyat,0
+Russia,9,Pierre Gasly,0
+Russia,10,Alexander Albon,0
+Russia,11,Antonio Giovinazzi,0
+Russia,12,Kevin Magnussen,0
+Russia,13,Sebastian Vettel,0
+Russia,14,Kimi Raikkönen,0
+Russia,15,Lando Norris,0
+Russia,16,Nicholas Latifi,0
+Russia,17,Romain Grosjean,0
+Russia,18,George Russell,0
+Eifel,1,Lewis Hamilton,1
+Eifel,2,Max Verstappen,0
+Eifel,3,Daniel Ricciardo,0
+Eifel,4,Sergio Perez,0
+Eifel,5,Carlos Sainz,0
+Eifel,6,Pierre Gasly,0
+Eifel,7,Charles Leclerc,0
+Eifel,8,Nico Hulkenberg,0
+Eifel,9,Romain Grosjean,0
+Eifel,10,Antonio Giovinazzi,0
+Eifel,11,Sebastian Vettel,0
+Eifel,12,Kimi Raikkönen,0
+Eifel,13,Kevin Magnussen,0
+Eifel,14,Nicholas Latifi,0
+Eifel,15,Daniil Kvyat,0
+Portugal,1,Lewis Hamilton,1
+Portugal,2,Valtteri Bottas,0
+Portugal,3,Max Verstappen,0
+Portugal,4,Charles Leclerc,0
+Portugal,5,Pierre Gasly,0
+Portugal,6,Carlos Sainz,0
+Portugal,7,Sergio Perez,0
+Portugal,8,Esteban Ocon,0
+Portugal,9,Daniel Ricciardo,0
+Portugal,10,Sebastian Vettel,0
+Portugal,11,Kimi Raikkönen,0
+Portugal,12,Alexander Albon,0
+Portugal,13,Lando Norris,0
+Portugal,14,George Russell,0
+Portugal,15,Antonio Giovinazzi,0
+Portugal,16,Kevin Magnussen,0
+Portugal,17,Romain Grosjean,0
+Portugal,18,Nicholas Latifi,0
+Portugal,19,Daniil Kvyat,0
+Emilia Romagna,1,Lewis Hamilton,1
+Emilia Romagna,2,Valtteri Bottas,0
+Emilia Romagna,3,Daniel Ricciardo,0
+Emilia Romagna,4,Daniil Kvyat,0
+Emilia Romagna,5,Charles Leclerc,0
+Emilia Romagna,6,Sergio Perez,0
+Emilia Romagna,7,Carlos Sainz,0
+Emilia Romagna,8,Lando Norris,0
+Emilia Romagna,9,Kimi Raikkönen,0
+Emilia Romagna,10,Antonio Giovinazzi,0
+Emilia Romagna,11,Nicholas Latifi,0
+Emilia Romagna,12,Sebastian Vettel,0
+Emilia Romagna,13,Lance Stroll,0
+Emilia Romagna,14,Romain Grosjean,0
+Emilia Romagna,15,Alexander Albon,0
+Turkey,1,Lewis Hamilton,1
+Turkey,2,Sergio Perez,0
+Turkey,3,Sebastian Vettel,0
+Turkey,4,Charles Leclerc,0
+Turkey,5,Carlos Sainz,0
+Turkey,6,Max Verstappen,0
+Turkey,7,Alexander Albon,0
+Turkey,8,Lando Norris,0
+Turkey,9,Lance Stroll,0
+Turkey,10,Daniel Ricciardo,0
+Turkey,11,Esteban Ocon,0
+Turkey,12,Daniil Kvyat,0
+Turkey,13,Pierre Gasly,0
+Turkey,14,Valtteri Bottas,0
+Turkey,15,Kimi Raikkönen,0
+Turkey,16,George Russell,0
+Turkey,17,Kevin Magnussen,0
+Bahrain,1,Lewis Hamilton,1
+Bahrain,2,Max Verstappen,0
+Bahrain,3,Alexander Albon,0
+Bahrain,4,Lando Norris,0
+Bahrain,5,Carlos Sainz,0
+Bahrain,6,Pierre Gasly,0
+Bahrain,7,Daniel Ricciardo,0
+Bahrain,8,Valtteri Bottas,0
+Bahrain,9,Esteban Ocon,0
+Bahrain,10,Charles Leclerc,0
+Bahrain,11,Daniil Kvyat,0
+Bahrain,12,George Russell,0
+Bahrain,13,Sebastian Vettel,0
+Bahrain,14,Nicholas Latifi,0
+Bahrain,15,Kimi Raikkönen,0
+Bahrain,16,Antonio Giovinazzi,0
+Bahrain,17,Kevin Magnussen,0
+Bahrain,18,Sergio Perez,0
+Sakhir,1,Sergio Perez,1
+Sakhir,2,Esteban Ocon,0
+Sakhir,3,Lance Stroll,0
+Sakhir,4,Carlos Sainz,0
+Sakhir,5,Daniel Ricciardo,0
+Sakhir,6,Alexander Albon,0
+Sakhir,7,Daniil Kvyat,0
+Sakhir,8,Valtteri Bottas,0
+Sakhir,9,George Russell,0
+Sakhir,10,Lando Norris,0
+Sakhir,11,Pierre Gasly,0
+Sakhir,12,Sebastian Vettel,0
+Sakhir,13,Antonio Giovinazzi,0
+Sakhir,14,Kimi Raikkönen,0
+Sakhir,15,Kevin Magnussen,0
+Sakhir,16,Jack Aitken,0
+Sakhir,17,Pietro Fittipaldi,0
+Abu Dhabi,1,Max Verstappen,1
+Abu Dhabi,2,Valtteri Bottas,0
+Abu Dhabi,3,Lewis Hamilton,0
+Abu Dhabi,4,Alexander Albon,0
+Abu Dhabi,5,Lando Norris,0
+Abu Dhabi,6,Carlos Sainz,0
+Abu Dhabi,7,Daniel Ricciardo,0
+Abu Dhabi,8,Pierre Gasly,0
+Abu Dhabi,9,Esteban Ocon,0
+Abu Dhabi,10,Lance Stroll,0
+Abu Dhabi,11,Daniil Kvyat,0
+Abu Dhabi,12,Kimi Raikkönen,0
+Abu Dhabi,13,Charles Leclerc,0
+Abu Dhabi,14,Sebastian Vettel,0
+Abu Dhabi,15,George Russell,0
+Abu Dhabi,16,Antonio Giovinazzi,0
+Abu Dhabi,17,Nicholas Latifi,0
+Abu Dhabi,18,Kevin Magnussen,0
+Abu Dhabi,19,Pietro Fittipaldi,0
