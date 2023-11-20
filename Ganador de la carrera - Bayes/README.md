@@ -12,6 +12,7 @@ Los datos son extraidos de 4 csv's, específicamente:
 
 Estos a estos datos les saqé las columnas que no necesitaba, eliminé las filas con valor 'NC' en la columna Position y cree una columna personalizada llamada 'Win' que tiene el valor 1 cuando el valor de la position es 1 y o cuando es mayor a 1. 
 
-Formula 1 dataset: https://github.com/toUpperCase78/formula1-datasets 
-scikit-learn: https://scikit-learn.org/stable/
-GaussianNB: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB
+# Enlaces
+[Formula 1 dataset](https://github.com/toUpperCase78/formula1-datasets)
+[scikit-learn](https://scikit-learn.org/stable/)
+[GaussianNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB)
